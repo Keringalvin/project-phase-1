@@ -24,16 +24,16 @@ Run a development server using a tool like npm start or a similar command depend
 
 ## Description
 
-Spofyis a music web application that allows users to discover new music, and listen to their favorite songs. The app has a sleek and intuitive interface that makes it easy for users to navigate and enjoy their music.
+Keringlays is a music web application that allows users to discover new music, and listen to their favorite songs. The app has a sleek and intuitive interface that makes it easy for users to navigate and enjoy their music.
 
 ## Setup/Installation Requirements
 
-- For a live demo, visit: 
+- For a live demo, visit: https://project-phase-1-blue.vercel.app/
 - Please be patient, the songs might take a few seconds to play.
 
 ## Technologies Used
 
-Tunez is built using the following technologies:
+Keringplays is built using the following technologies:
 
 HTML5 AND CSS
 js
